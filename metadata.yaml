@@ -1,0 +1,23 @@
+_repo: Mousey-b-or-Cousin-Robert-s-Treasure_70697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-05-04'
+identifiers:
+  gutenberg: '70697'
+language: en
+pgterms:marc905: 20230425101147stooke
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bS. W. Partridge & Co., Ltd., $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mousey : $b or Cousin Robert''s Treasure'
+url: http://www.gutenberg.org/ebooks/70697
